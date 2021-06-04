@@ -13,6 +13,7 @@ source activate user-profiles
 Or just pip install from the requirements file
 ``` 
 pip install -r requirements.txt
+There may also be a need to pip3 install requests
 ```
 
 ## Running the code
