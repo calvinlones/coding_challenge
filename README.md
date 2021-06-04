@@ -27,7 +27,7 @@ python -m run
 ### Making Requests
 
 ```
-curl -i "http://127.0.0.1:5000/health-check"
+curl -i "http://127.0.0.1:5000/getStats/<repo or org name>"
 ```
 
 
